@@ -1,3 +1,11 @@
+*.mo
+*.pyc
+*/gschemas.compiled
+node_modules/
+/.idea/
+package-lock.json
+*.7z
+
 # Build and Release Folders
 bin-debug/
 bin-release/
